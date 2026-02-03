@@ -26,7 +26,8 @@ Estrutura geral:
 
 ```text
 📦 santander-excel-com-ia
- ┣ 📁 desafios-de-projeto
+ ┣ 📁 controle_de_investimento
+ ┣ 📁 controle_de_imposto_de_renda
  ┗ 📄 README.md
 ```
 

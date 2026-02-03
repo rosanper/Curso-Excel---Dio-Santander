@@ -76,7 +76,6 @@ Ao concluir este desafio, foram desenvolvidas as seguintes competências:
 📦 criando-ferramenta-controle-investimentos
  ┣ 📄 Controle_de_Investimentos.xlsx
  ┣ 📄 README.md
- ┗ 📁 images (opcional)
 ```
 
 ---
